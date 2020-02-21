@@ -1,0 +1,1 @@
+This is the folder for the codes and the assignment of the course "Full-Stack Web Development with React Specialization" by Jogesh K. Muppala from The Hong Kong University of Science and Technology.
